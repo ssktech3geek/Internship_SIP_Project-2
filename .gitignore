@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.env
+*.faiss
+*.joblib
+data/raw_filings/
+.DS_Store
